@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "first project on node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ejercicio": "node holaopen.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Shabull Xyz",
+  "license": "ISC"
+}
